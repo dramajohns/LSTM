@@ -1,2 +1,3 @@
-# Word perdiction LSTM
- Word prediction using keras LSTM 
+# LSTM
+ Wordpred :Word prediction using keras LSTM 
+ Passpred :Passengers Number prediction using LSTM
